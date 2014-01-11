@@ -16,8 +16,9 @@ est différent de       |!=
 Noms|Symboles
 ----|--------
 ET  |&&
-OU  |`` `|` ``
+OU  |&#124;&#124;
 NON |!
+
 
 ## Condition if
 
